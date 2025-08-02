@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Rhea Sharma",
+    "specialization": "Cardiologist",
+    "profileImage": "/doctor1.jpg",
+    "status": "Available Today",
+    "bio": "An experienced heart specialist with 10+ years in practice.",
+    "schedule": ["2025-08-02T10:00", "2025-08-02T14:00"]
+  },
+  {
+    "id": "2",
+    "name": "Dr. Vikram Rao",
+    "specialization": "Dermatologist",
+    "profileImage": "/doctor2.jpg",
+    "status": "Fully Booked",
+    "bio": "Renowned for accurate diagnosis and treatment of skin diseases.",
+    "schedule": []
+  }
+]

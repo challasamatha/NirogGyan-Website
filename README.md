@@ -28,6 +28,6 @@ https://github.com/challasamatha/NirogGyan-Website.git
 - Responsive design testing across all viewports
 
 ## Author 
-Name :  Challa Samatha 
+Name :  Challa Samatha,
 E-mail : samathachalla36@gmail.com
 

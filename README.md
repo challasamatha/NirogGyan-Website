@@ -1,4 +1,4 @@
- # NirogGyan Frontend Assignment
+ # NirogGyan Website
 
 ## 🚀 Tech Stack
 
@@ -7,6 +7,7 @@
 - React Router DOM
 
 ## Clone the project 
+https://github.com/challasamatha/NirogGyan-Website.git
 
 ## 📋 Features
 
